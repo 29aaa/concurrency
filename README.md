@@ -22,3 +22,5 @@
   * [Стек процесса](https://manybutfinite.com/post/journey-to-the-stack/)
   * [Системные вызовы](https://manybutfinite.com/post/system-calls/)
   * [Планировщик](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
+#### Устройство процессора
+  * [Длинное, но с картинками](http://www.lighterra.com/papers/modernmicroprocessors/)
