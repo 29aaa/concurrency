@@ -14,3 +14,11 @@
   * [tsan (thread sanitizer)](http://clang.llvm.org/docs/ThreadSanitizer.html#usage)
   * [msan (memory sanitizer)](http://clang.llvm.org/docs/MemorySanitizer.html#id3)
   * [ubsan (undefined behavior sanitizer)](http://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html#usage)
+#### Устройство ОС в картинках
+  * [Виртуальная память](https://manybutfinite.com/post/how-the-kernel-manages-your-memory/)
+  * [Общение с физической памятью](https://manybutfinite.com/post/getting-physical-with-memory/)
+  * [Кэш](https://manybutfinite.com/post/intel-cpu-caches/)
+  * [Анатомия процесса](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
+  * [Стек процесса](https://manybutfinite.com/post/journey-to-the-stack/)
+  * [Системные вызовы](https://manybutfinite.com/post/system-calls/)
+  * [Планировщик](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
