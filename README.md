@@ -22,7 +22,6 @@
   * [Стек процесса](https://manybutfinite.com/post/journey-to-the-stack/)
   * [Системные вызовы](https://manybutfinite.com/post/system-calls/)
   * [Планировщик](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
-#### Устройство процессора
-  * [Длинное, но с картинками](http://www.lighterra.com/papers/modernmicroprocessors/)
-#### pthreads
-  * [man 7 pthreads](http://man7.org/linux/man-pages/man7/pthreads.7.html)
+#### we need to go deeper
+  * [Как устроены современные CPU, много букв, но с картинками](http://www.lighterra.com/papers/modernmicroprocessors/)
+  * [Как устроен планировщик в линуксе и как с его точки зрения выглядят потоки, много букв, без картинок](https://tampub.uta.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf)
