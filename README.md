@@ -25,4 +25,4 @@
 #### we need to go deeper
   * [Как устроены современные CPU, много букв, но с картинками](http://www.lighterra.com/papers/modernmicroprocessors/)
   * [Документация ядра линукса про планировщик](https://www.kernel.org/doc/Documentation/scheduler/sched-design-CFS.txt)
-  * [Больше деталей про устройство планировщика в линуксе](https://tampub.uta.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf)
+  * [Больше деталей про устройство планировщика в линуксе](https://notes.shichao.io/lkd/ch4/)
