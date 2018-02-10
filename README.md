@@ -24,4 +24,5 @@
   * [Планировщик](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
 #### we need to go deeper
   * [Как устроены современные CPU, много букв, но с картинками](http://www.lighterra.com/papers/modernmicroprocessors/)
-  * [Как устроен планировщик в линуксе и как с его точки зрения выглядят потоки, много букв, без картинок](https://tampub.uta.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf)
+  * [Документация ядра линукса про планировщик](https://www.kernel.org/doc/Documentation/scheduler/sched-design-CFS.txt)
+  * [Больше деталей про устройство планировщика в линуксе](https://tampub.uta.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf)
