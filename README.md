@@ -6,7 +6,6 @@
   * [Code style](https://bitbucket.org/snippets/rlipovsky/qAR9M)
 #### Полезные ссылки
   * [Справка по C++](http://en.cppreference.com/w/)
-  * [Страница курса с прошлого года](https://docs.google.com/document/d/1-fdPXfKtGrtcsvCEkiQnTQ7_9HQTjagwvNR34LtjI1A/edit)
   * [Тестовый контест](https://contest.yandex.ru/contest/3954/problems/)
   * [Игрушка на выходные](https://deadlockempire.github.io/)
 #### Санитайзеры
