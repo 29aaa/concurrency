@@ -24,3 +24,5 @@
   * [Планировщик](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
 #### Устройство процессора
   * [Длинное, но с картинками](http://www.lighterra.com/papers/modernmicroprocessors/)
+#### pthreads
+  * [man 7 pthreads](http://man7.org/linux/man-pages/man7/pthreads.7.html)
